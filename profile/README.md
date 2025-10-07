@@ -19,15 +19,6 @@ We are creating an AI-powered cyber security awareness platform to train and tea
 ![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
 
 
-
-## 📊 Our Stats
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=ushanchamod&show_icons=true&theme=radical)
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=Devousl&show_icons=true&theme=radical)
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=hwdsJayathissa&show_icons=true&theme=radical)
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=TharushiSewmini&show_icons=true&theme=radical)
-
-
-
 ## 🌟 Featured Repositories
 - [**client**](https://github.com/safenet-group-13/client.git) - This repo contains the Next.js front-end
 - [**server**](https://github.com/safenet-group-13/server.git) - This repo contains the Express.js back-end
@@ -40,3 +31,4 @@ We are creating an AI-powered cyber security awareness platform to train and tea
 
 
 **Made with ❤️ by Safe Net Team | Open University of Sri Lanka**
+
